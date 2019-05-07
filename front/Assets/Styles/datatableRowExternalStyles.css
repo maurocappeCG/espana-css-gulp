@@ -1,0 +1,9 @@
+.DatatableRow[DiageoCMS-datatableRow_datatableRow] .rowdata[DiageoCMS-datatableRow_datatableRow] p.value[DiageoCMS-datatableRow_datatableRow] {
+    font-size: 16px !important;
+    font-weight: 400 !important;
+}
+.DatatableRow[DiageoCMS-datatableRow_datatableRow] .rowdata[DiageoCMS-datatableRow_datatableRow] p.column[DiageoCMS-datatableRow_datatableRow] {
+    color: #848484;
+    font-size: 16px;
+    font-weight: 500;
+}

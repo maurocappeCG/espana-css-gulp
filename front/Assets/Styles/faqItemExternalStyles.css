@@ -10,6 +10,7 @@
 } 
 .accordion[DiageoCMS-faqItem_faqItem] .slds-button.slds-button_reset[DiageoCMS-faqItem_faqItem] {
     background-color: #FDFDFD;
+    height: auto;
 }
 .accordion[DiageoCMS-faqItem_faqItem] .slds-button.slds-button_reset.active[DiageoCMS-faqItem_faqItem] > .title[DiageoCMS-faqItem_faqItem]  {
     color: #F2B005;
@@ -17,6 +18,7 @@
 .accordion[DiageoCMS-faqItem_faqItem] .slds-button.slds-button_reset[DiageoCMS-faqItem_faqItem] .title[DiageoCMS-faqItem_faqItem] {
     color: #2B2B2B;
 }
+
 
 @media screen and (max-width:768px) {
     .accordion[DiageoCMS-faqItem_faqItem] .slds-button.slds-button_reset[DiageoCMS-faqItem_faqItem]:after {
