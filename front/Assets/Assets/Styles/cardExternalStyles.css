@@ -7,10 +7,12 @@
 
 .container-portrait[DiageoCMS-card_card] {
     padding: 5% 7% 0 7%;
+    position: relative;
 }
 
 .container-portrait[DiageoCMS-card_card] .img-container-portrait[DiageoCMS-card_card] {
     height: 220px;
+    position: absolute;
 }
 
 .container-portrait[DiageoCMS-card_card] .img-container-portrait[DiageoCMS-card_card] img {
