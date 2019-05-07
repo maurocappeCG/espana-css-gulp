@@ -27,3 +27,10 @@
 .DiageoCMSEventListHOC .container-portrait[DiageoCMS-card_card] .title-container[DiageoCMS-card_card] .title[DiageoCMS-card_card]{
     color: #FDFDFD;
 }
+
+.DiageoCMSEventListHOC .container-portrait[DiageoCMS-card_card] .header-container[DiageoCMS-card_card] .head-event[DiageoCMS-card_card]{
+    color: #F2B005;
+    padding: 0;
+    text-align: left;
+    min-height: auto;
+}
