@@ -28,7 +28,7 @@
     color: #FDFDFD;
 }
 
-.DiageoCMSEventListHOC .container-portrait[DiageoCMS-card_card] .header-container[DiageoCMS-card_card] .head-event[DiageoCMS-card_card] lightning-formatted-date-time:first-child{
+.DiageoCMSEventListHOC .container-portrait[DiageoCMS-card_card] .header-container[DiageoCMS-card_card] .head-event[DiageoCMS-card_card]{
     padding: 0;
     text-align: left;
     min-height: auto;
