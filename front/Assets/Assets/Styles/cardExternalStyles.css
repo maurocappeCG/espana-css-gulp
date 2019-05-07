@@ -19,3 +19,11 @@
 .container-portrait[DiageoCMS-card_card] .img-container-portrait[DiageoCMS-card_card] img {
     height: 100%;
 }
+
+.DiageoCMSEventListHOC .container-portrait[DiageoCMS-card_card]{
+    background-color: #0B0B0B;
+}
+
+.DiageoCMSEventListHOC .container-portrait[DiageoCMS-card_card] .title-container[DiageoCMS-card_card] .title[DiageoCMS-card_card]{
+    color: #FDFDFD;
+}
