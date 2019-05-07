@@ -2,3 +2,7 @@ node_modules
 src
 force-app
 .vscode
+.forceCode
+.sfdx.vim-force.com
+force.json
+sfdx-project.json
