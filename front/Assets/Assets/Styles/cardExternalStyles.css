@@ -11,8 +11,9 @@
 }
 
 .container-portrait[DiageoCMS-card_card] .img-container-portrait[DiageoCMS-card_card] {
-    height: 220px;
     position: absolute;
+    height: 220px;
+    bottom: 0;
 }
 
 .container-portrait[DiageoCMS-card_card] .img-container-portrait[DiageoCMS-card_card] img {
