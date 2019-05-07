@@ -5,10 +5,8 @@
     }
 }
 
-@media (min-width: 768px){
-    .container-portrait[DiageoCMS-card_card] {
-        padding: 5% 7% 0 7%;
-    }
+.container-portrait[DiageoCMS-card_card] {
+    padding: 5% 7% 0 7%;
 }
 
 .container-portrait[DiageoCMS-card_card] .img-container-portrait[DiageoCMS-card_card] {
