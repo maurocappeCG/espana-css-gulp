@@ -13959,6 +13959,9 @@ body.comm-page-login-home .DiageoCMSCarouselItem .description {
 body.comm-page-custom-faqs {
     background-color: #FDFDFD;
 }
+body.comm-page-home .siteforceContentArea .comm-layout-column .ui-widget:not(:last-child){
+  margin-bottom: 0;
+}
 @media screen and (max-width: 768px) {
   .cMD_GuestTheme > .mainContentArea {
     margin-top: 60px;     
