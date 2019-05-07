@@ -15,7 +15,7 @@ gulp.task('watch-less', function() {
 gulp.task('default', gulp.series('watch-less'));
 
 gulp.task('zip', function () {
-    return gulp.src('../front/Assets')
+    return gulp.src('../front/Assets/**')
         .pipe(zip('Assets.zip'))
         .pipe(gulp.dest('../front'));
 });
