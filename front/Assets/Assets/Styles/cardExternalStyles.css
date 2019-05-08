@@ -16,6 +16,10 @@
     box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.16);
 }
 
+.container-portrait[DiageoCMS-card_card] .head-news[DiageoCMS-card_card] {
+    font-weight: 500;
+}
+
 .container-portrait[DiageoCMS-card_card] .img-container-portrait[DiageoCMS-card_card] {
     position: absolute;
     height: 220px;
