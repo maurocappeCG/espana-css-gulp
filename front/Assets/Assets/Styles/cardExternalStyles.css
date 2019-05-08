@@ -1,4 +1,3 @@
-
 @media screen and (max-width: 768px) {
     .container-portrait[DiageoCMS-card_card] {
         height: 370px;
@@ -6,8 +5,9 @@
 }
 
 .container-portrait[DiageoCMS-card_card] {
-    padding: 5% 7% 0 7%;
+    padding: 5% 7%;
     position: relative;
+    height: 400px;
 }
 
 .container-portrait[DiageoCMS-card_card] .img-container-portrait[DiageoCMS-card_card] {
@@ -18,23 +18,24 @@
 
 .container-portrait[DiageoCMS-card_card] .img-container-portrait[DiageoCMS-card_card] img {
     height: 100%;
+    width: 100%;
 }
 
-.DiageoCMSEventListHOC .container-portrait[DiageoCMS-card_card]{
+.DiageoCMSEventListHOC .container-portrait[DiageoCMS-card_card] {
     background-color: #0B0B0B;
 }
 
-.DiageoCMSEventListHOC .container-portrait[DiageoCMS-card_card] .title-container[DiageoCMS-card_card] .title[DiageoCMS-card_card]{
+.DiageoCMSEventListHOC .container-portrait[DiageoCMS-card_card] .title-container[DiageoCMS-card_card] .title[DiageoCMS-card_card] {
     color: #FDFDFD;
 }
 
-.DiageoCMSEventListHOC .container-portrait[DiageoCMS-card_card] .header-container[DiageoCMS-card_card] .head-event[DiageoCMS-card_card]{
+.DiageoCMSEventListHOC .container-portrait[DiageoCMS-card_card] .header-container[DiageoCMS-card_card] .head-event[DiageoCMS-card_card] {
     padding: 0;
     text-align: left;
     min-height: auto;
     background-color: transparent;
 }
 
-.DiageoCMSEventListHOC .container-portrait[DiageoCMS-card_card] .header-container[DiageoCMS-card_card] .head-event[DiageoCMS-card_card] lightning-formatted-date-time:first-child{
+.DiageoCMSEventListHOC .container-portrait[DiageoCMS-card_card] .header-container[DiageoCMS-card_card] .head-event[DiageoCMS-card_card] lightning-formatted-date-time:first-child {
     color: #F2B005;
 }
